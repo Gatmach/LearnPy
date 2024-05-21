@@ -1,4 +1,6 @@
-''' Welcoming to our guess game
+''' 
+Welcome to Guessing game!
+Have fun with us! Your happiness is our goal.
 The game prompts the user to enter the number of guess limit.
 Guess_count is initialized to 0 in the beginning of the game and continue incrementing as the user continues guessing the secret password.
 Initially, the out_of_guess is set to false and once the user enters the correct guess it turns to true...
