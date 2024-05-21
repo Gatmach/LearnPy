@@ -1,12 +1,7 @@
-# Basic calculator that adds two numbers
-# num1 = float(input("Entet a number: "))
-# num2 = float(input("Enter anther number: "))
-# answer = num1 + num2
-# print(answer)
-
-
-# Building a basic calculator that performs basic calculations on two numbers
-# Initial points
+'''
+Basic calculator that requires a user to enter two numbers and the type of operator he or she wants to use
+The program is implemented using if-else statements to determine the various conditions.
+'''
 num1 = float(input("Entet a number: "))
 num2 = float(input("Enter another number: "))
 operator = input("Enter an operator (+, - , *, /, %) ")
